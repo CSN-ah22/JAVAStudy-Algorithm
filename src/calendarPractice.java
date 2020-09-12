@@ -21,17 +21,25 @@ public class calendarPractice {
     }
 
     public static void main(String[] args) {
-
-
-        System.out.println("수를 입력하세요");
+        String PROMPT = "calendar> ";
         Scanner scanner = new Scanner(System.in);
-        int month = scanner.nextInt();
-        maxDays(month);
 
-        System.out.printf("%d월은%d일까지있습니다", month, maxDays(month));
-        prints();
+
+        int month = 1;
+        while (true) {
+            System.out.println("달을 입력하세요");
+            System.out.print(PROMPT);
+            month = scanner.nextInt();
+            if (month == -1) {
+                break;
+            }
+            if (month > 12) {
+                continue;
+            }
+            System.out.printf("%d월은%d일까지있습니다\n\n", month, maxDays(month));
+        }
+        System.out.println("Bye~");
         scanner.close();
-
 
     }
 }
