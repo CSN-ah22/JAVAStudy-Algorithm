@@ -18,9 +18,8 @@ public class PROMPT {
         Scanner scanner = new Scanner(System.in);
         calendarPractice cal = new calendarPractice();
 
-        int month ;
-        int year ;
-        int weekday ;
+        int month =1 ;
+        int year =2017 ;
 
         while (true) {
             System.out.println("년도를 입력하세요 (exit: -1");
@@ -33,15 +32,12 @@ public class PROMPT {
             System.out.print("MONTH>");
             month = scanner.nextInt();
 
-            System.out.println("첫째 날의 요일을 입력하세요(su, mo, tu, wd, th, fr, st");
-            String str_weekday = scanner.next();
-            weekday = parseDay(str_weekday);
 
             if (month > 12 || month < -1) {
                 System.out.println("잘못된 입력값입니다.");
                 continue;
             }
-            cal.prints(year, month, weekday);
+            cal.prints(year, month);
 
 
         }
