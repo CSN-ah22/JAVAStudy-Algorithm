@@ -1,8 +1,8 @@
 import java.util.Calendar;
 
 public class calendarPractice {
-    private static final int[] mmd = {0,31, 28, 30, 31, 30, 31, 30, 31, 30, 31, 30, 31};
-    private final int[] LEAP_MAX_DAYS = {0,31, 29, 30, 31, 30, 31, 30, 31, 30, 31, 30, 31};
+    private static final int[] mmd = {0,31, 28, 31, 30, 31, 30, 31, 30, 31, 30, 31, 30};
+    private final int[] LEAP_MAX_DAYS = {0,31, 29, 31, 30, 31, 30, 31, 30, 31, 30, 31, 30};
 
     public boolean isLeapYear(int year) {
         return year % 4 == 0 && (year % 100 != 0 || year % 400 == 0);
