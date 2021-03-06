@@ -1,4 +1,4 @@
-# Personal-Storage
+# Personal-Storage (개인용 저장소)
 첫 번째 저장소! 초보 개발자의 학습 내용 업로드 ✧ * .◟ (ˊ ᗨ ˋ) ◞. * ✧ <br>
 HELLO! this post is test for use readme.<br>
 I'm korean student of university and that university name is daelim<br>
