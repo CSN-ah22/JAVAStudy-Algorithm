@@ -8,3 +8,5 @@ it's not yet end<br>
 I will up to post. for example.. Calendar and study Activity and different Activity!<br><br>
 I want you to think well of my code<br>
 thank for watching my readme.md :smile:
+
+스터디 활동 내역은 branch로 나눠놨습니다 => study-group-activity 
