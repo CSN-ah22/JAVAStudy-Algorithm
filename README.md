@@ -1,22 +1,31 @@
 # ✒ Study - Group - Activity
-### 겨울방학동안 스터디를 활동하며 만든 java 파일들 입니다 
-### <b>스터디의 방식</b>은 아래와 같았습니다
----
-### 스터디 방식
-### 스스로 문제 만들기 - 스터디원에게 제공 - 스터디원들이 풀기 - 
-### -문제의 정답 제공 - 다른 조원의 문제 풀기 - 반복 
----
+
+### 겨울방학동안 스터디를 활동하며 만든 java 파일들 입니다<br>
+스터디 방식은 아래와 같았습니다
+
+## 
+<div align="left" >
+  <h3>스터디 방식</b><h3>
+  <h4>스스로 문제 만들기 - 스터디원에게 제공 - 스터디원들이 풀기 - <br><br>
+    - 문제의 정답 제공 - 다른 조원의 문제풀기 - 반복</h4>
+</div>
+
+
+##
 ### 이런 방식으로 java 실력이 많이 올랐습니다
 </br>
 
-# 문제 리스트 👇👇
+## 문제 리스트 👇👇
 
 <b>문자열 관련 문제</b>
 |제목|내용|깃헙 파일 위치|
 |------|---|---|
 |1_문자열|5개 이상 100개 이하의 문자로된 단어를 String 변수 s로 입력받은 후 앞에서부터 5자 출력하시오|[study_5](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_5)|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|3_string문제 (1)|trim 메서드를 사용하여 문제를 해결하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
+|4_string문제 (2)|Arrays.toString을 사용하여 문제를 해결하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
+|5_string문제 (3)|index.Of를 사용하여 문제를 해결하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
+|6_string문제 (4)|split를 사용하여 문제를 해결하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
+|7_string문제 (5)|endwidth를 사용하여 문제를 해결하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
 
 <b>반복문 관련 문제</b>
 |제목|내용|깃헙 파일 위치|
@@ -52,6 +61,8 @@
 |------|---|---|
 |2class_1|제시하는 속성을 갖는 클래스 만들고 값을 부여하시오|[study_4](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_4)|
 |3class_2|클래스+메서드+클래스 인스턴스화+리턴값 받기를 실습하시오|[study_4](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_4)|
+|1생성자|필드를 선언하고 기본생성자를 통해 정해진 값으로 초기화 하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
+|2_this생성자|매개변수가 있는 생성자를 만들고 this를 이용해 필드를 매개변수로 초기화 하시오|[study 6](https://github.com/CSN-ah22/JAVAStudy-Algorithm/tree/Study-group-Activity/study_6)|
 
 <b>메서드 관련 문제</b>
 |제목|내용|깃헙 파일 위치|
